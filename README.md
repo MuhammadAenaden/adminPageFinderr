@@ -1,1 +1,3 @@
 # adminPageFinderr
+
+open adminPageFinder file
